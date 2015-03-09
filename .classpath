@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/jetty/jetty-6.1.11/lib/servlet-api-2.5-6.1.11.jar"/>
+	<classpathentry kind="lib" path="D:/imran/External Jars/guice3/aopalliance.jar"/>
+	<classpathentry kind="lib" path="D:/imran/External Jars/guice3/guice-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/imran/External Jars/guice3/guice-assistedinject-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/imran/External Jars/guice3/guice-grapher-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/imran/External Jars/guice3/guice-jmx-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/imran/External Jars/guice3/guice-jndi-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/imran/External Jars/guice3/guice-multibindings-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/imran/External Jars/guice3/guice-persist-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/imran/External Jars/guice3/guice-servlet-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/imran/External Jars/guice3/guice-spring-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/imran/External Jars/guice3/guice-struts2-plugin-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/imran/External Jars/guice3/guice-throwingproviders-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/imran/External Jars/guice3/javax.inject.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
