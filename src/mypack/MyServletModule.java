@@ -10,6 +10,7 @@ public class MyServletModule extends ServletModule
 	{
 		serve("*.html").with(Hello2.class);
 		serve("/test/*").with(Hello3.class);
+		serve("*/abcxyz").with(Hello3.class);
 		filter("/*").through(Filter1.class);
 		bind(Test.class).annotatedWith(Names.named("Impl2")).to(TestImpl2.class);
 	}
